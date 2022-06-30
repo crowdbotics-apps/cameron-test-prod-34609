@@ -947,7 +947,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1168,9 +1168,6 @@
     reselect "^4.0.0"
 
 "@screens/about-the-app@file:./screens/about-the-app":
-  version "1.0.0"
-
-"@screens/social-followers@file:./screens/social-followers":
   version "1.0.0"
 
 "@sideway/address@^4.1.0":
