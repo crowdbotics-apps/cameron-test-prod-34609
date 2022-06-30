@@ -1160,7 +1160,10 @@
     redux-thunk "^2.3.0"
     reselect "^4.0.0"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
+  version "1.0.0"
+
+"@screens/social-followers@file:./screens/social-followers/":
   version "1.0.0"
 
 "@sideway/address@^4.1.0":
