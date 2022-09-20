@@ -1167,7 +1167,10 @@
     redux-thunk "^2.3.0"
     reselect "^4.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
+"@screens/welcome@file:./screens/welcome/":
   version "1.0.0"
 
 "@sideway/address@^4.1.0":
