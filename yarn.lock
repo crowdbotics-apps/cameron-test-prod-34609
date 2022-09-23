@@ -1170,10 +1170,10 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/welcome@file:./screens/welcome":
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
-"@screens/welcome@file:./screens/welcome/":
+"@screens/welcome@file:./screens/welcome":
   version "1.0.0"
 
 "@sideway/address@^4.1.0":
