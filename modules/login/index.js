@@ -59,14 +59,14 @@ function LoginSignupTabs({
       flex: 1
     }}>
         <ScrollView style={[styles.container]}>
-          <View style={_styles.AILdikfU}>
+          <View style={_styles.UDvWzFpY}>
             <View style={styles.imageContainer}>
               <ImageBackground source={{
               uri: options.BACKGROUND_URL
-            }} style={_styles.IHCQhAxs}>
+            }} style={_styles.ZxEJZzMW}>
                 <Image source={{
                 uri: options.LOGO_URL
-              }} style={_styles.kHIlcoDL} />
+              }} style={_styles.gXJmsJVd} />
               </ImageBackground>
             </View>
           </View>
@@ -112,17 +112,17 @@ export default {
 };
 
 const _styles = StyleSheet.create({
-  AILdikfU: {
+  UDvWzFpY: {
     flex: 1
   },
-  IHCQhAxs: {
+  ZxEJZzMW: {
     flex: 1,
     justifyContent: "center",
     resizeMode: "cover",
     height: "100%",
     width: "100%"
   },
-  kHIlcoDL: {
+  gXJmsJVd: {
     width: 155,
     height: 155,
     alignSelf: "center",

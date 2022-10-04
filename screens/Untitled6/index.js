@@ -21,8 +21,8 @@ const _styles = StyleSheet.create({
     height: "100%"
   },
   yYcWwdSJ: {
-    left: 0,
-    top: 0,
+    left: 8,
+    top: 6,
     position: "absolute",
     width: 357,
     height: 635,
